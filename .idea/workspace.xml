@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a26147f-8d2a-4fa8-8ef5-18008368cd6e" name="Changes" comment="изменение в 12 13 строке: 15 на 13" />
+    <list default="true" id="8a26147f-8d2a-4fa8-8ef5-18008368cd6e" name="Changes" comment="Билет 13. Решение задачи." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,11 +22,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="ticket" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -65,9 +60,7 @@
       <workItem from="1679246601078" duration="13407000" />
       <workItem from="1679322037588" duration="11196000" />
       <workItem from="1679419910457" duration="7789000" />
-      <workItem from="1679499656229" duration="11943000" />
-      <workItem from="1679580517517" duration="2567000" />
-      <workItem from="1680279179803" duration="2665000" />
+      <workItem from="1679499656229" duration="11376000" />
     </task>
     <task id="LOCAL-00001" summary="Билет 13. Решение задачи.">
       <created>1679516438201</created>
@@ -76,28 +69,7 @@
       <option name="project" value="LOCAL" />
       <updated>1679516438201</updated>
     </task>
-    <task id="LOCAL-00002" summary="Билет 13. Решение задачи.">
-      <created>1679516707247</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1679516707247</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Билет 13. Решение задачи.">
-      <created>1679516905634</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1679516905634</updated>
-    </task>
-    <task id="LOCAL-00004" summary="изменение в 12 13 строке: 15 на 13">
-      <created>1680282528790</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1680282528790</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,8 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Билет 13. Решение задачи." />
-    <MESSAGE value="изменение в 12 13 строке: 15 на 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="изменение в 12 13 строке: 15 на 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Билет 13. Решение задачи." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
