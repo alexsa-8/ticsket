@@ -10,8 +10,8 @@ public class Main {
         // Необходимо реализовать следующий метод:
 
         //Задание №1 На входе коллекция пользователей
-        User user1 = new User("Ivan", 15);
-        User user2 = new User("Ivan", 15);
+        User user1 = new User("Ivan", 10);
+        User user2 = new User("Ivan", 10);
         User user3 = new User("Petr", 35);
         User user4 = new User("Petr", 35);
         User user5 = new User("Roma", 25);
