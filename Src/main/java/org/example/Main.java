@@ -1,17 +1,20 @@
 package org.example;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
+
 
 public class Main {
-
     public static void main(String[] args) {
         //Билет 13. Задача.
         //Дан класс User, который содержит поля с именем и возрастом.
         // Необходимо реализовать следующий метод:
 
         //Задание №1 На входе коллекция пользователей
-        User user1 = new User("Ivan", 15);
-        User user2 = new User("Ivan", 15);
+        User user1 = new User("Ivan", 13);
+        User user2 = new User("Ivan", 13);
         User user3 = new User("Petr", 35);
         User user4 = new User("Petr", 35);
         User user5 = new User("Roma", 25);
@@ -63,3 +66,4 @@ public class Main {
         System.out.println(oldest1);
     }
 }
+
